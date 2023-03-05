@@ -20,7 +20,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
         textView = findViewById(R.id.textView)
         editText = findViewById(R.id.editText)
         buttonToPlayAgain = findViewById(R.id.buttonToPlayAgain)
